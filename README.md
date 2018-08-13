@@ -2,7 +2,7 @@
 
 ### Instant Messaging Application
 
-Users can create channels and send/receive messages real time.
+Users can create channels and send/receive messages in Realtime.
 
 [Demo Site](https://labourer-member-54211.netlify.com/)
 
