@@ -29,6 +29,10 @@ $ npm install
 
 ## Run the Application
 
-- Run the application using ```npm start```
+- Run the application using 
+
+```
+$ npm start
+```
 
 To view it in a any browser, go to [http://localhost:3000](http://localhost:3000).
