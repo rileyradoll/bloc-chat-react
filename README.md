@@ -4,7 +4,7 @@
 
 Users can create channels and send/receive messages in Realtime.
 
-[Demo Site](https://labourer-member-54211.netlify.com/)
+[Demo Site](https://nervous-hopper-9a129b.netlify.com/)
 
 ## Features
 
